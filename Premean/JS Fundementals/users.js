@@ -41,7 +41,7 @@ function userLanguages(arr) {
         // console.log(arr[i]['interests'])
         // console.log(Object.entries(arr[i].interests).length)
     }
-    // return (arr[i].fname + " " + arr[i].lname + " knows " + arr[i].languages + ".")
+    
 }
 
 userLanguages(users)
